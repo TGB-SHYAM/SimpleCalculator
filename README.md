@@ -57,3 +57,5 @@ Clicking the small "Run" (play) button next to the main method or the class defi
 Right-clicking inside the file and selecting "Run 'SimpleCalculator.java'".
 
 The IDE will handle the compilation and execution for you, and the calculator window will appear.
+
+
